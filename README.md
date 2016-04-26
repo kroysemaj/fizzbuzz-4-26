@@ -4,7 +4,7 @@ A simple seed TDD project set up with gulp and jasmine. There are no other bells
 
 ##Installation
 
-You'll need nodeJS. From there:
+You'll need nodeJS and gulp. From there:
 
 Clone the project and run `npm install` in your terminal
 
